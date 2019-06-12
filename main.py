@@ -1,5 +1,5 @@
-from MessageParsingMainWindow import MessageParsingMainWindow as mp_mw
+from MessageParsingMainWindow import MessageParsingMainWindow
 
-app = mp_mw()
+app = MessageParsingMainWindow()
 app.show()
 app.exec()
